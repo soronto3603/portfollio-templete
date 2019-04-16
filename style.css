@@ -118,6 +118,11 @@
 
     max-width: 80%; height: auto;
     display: block;
+}.card svg{
+    margin:10%;
+
+    max-width: 80%; height: auto;
+    display: block;
 }
 .card-image{
     max-width: 100%;
